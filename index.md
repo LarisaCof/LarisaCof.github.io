@@ -2,9 +2,9 @@
 
 ---
 
-### Category Name 1 
+### ICT project course (project group Draco)
 
-[ICT project course](/sample_page)
+[Project](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 
