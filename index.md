@@ -2,13 +2,13 @@
 
 ---
 
-### ICT project course (project group Draco)
+### Socket programming project
 
-This project is ongoing
+This project was done as part of the course IK1203.
 <br><br>
-[Project web page](/https://github.com/LarisaCof/Project-IK1203)
+[Socket programming](/https://github.com/LarisaCof/Project-IK1203)
 
-[Socket programming project] (/https://github.com/LarisaCof/Project-IK1203) This project was done as part of the course IK1203.
+
 
 
 
