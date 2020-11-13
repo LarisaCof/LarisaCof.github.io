@@ -7,7 +7,7 @@
 
 Laboratory assignments from the course Algorithm and Datastructures (ID1020) at KTH.
 <br><br>
-[Assignments](https://github.com/LarisaCof/Algorithms-and-Datastrucures)
+[Assignments](https://github.com/LarisaCof/ID1020-Algorithms-and-Datastructures)
 <br><br>
 
 ### Socket programming project
