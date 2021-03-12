@@ -7,12 +7,17 @@ description: > # your text below (remove <br> elements if you don't need line br
   <p> In August of 2021, I plan to attend the ICT Innovation Master's degree program, 
   Cloud and Network Infrastructures track at 
   KTH Royal Institute of Technology, where I am currently pursuing a
-  bachelor's degree (graduating spring of 2021). </p>
-  <br><br>
-  <br>
+  bachelor's degree (graduating spring of 2021). 
   
   <a href="https://www.linkedin.com/in/larisa-cof-b57925153/">View My LinkedIn</a> 
   <a href="https://www.kth.se/profile/larisac/">View my KTH Profile</a> 
+  
+  </p>
+  
+  <br><br>
+  <br>
+  
+  
   
 theme: jekyll-theme-minimal
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
