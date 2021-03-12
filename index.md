@@ -9,6 +9,23 @@ EasyPark and LinPark, our goal is to investigate areas of development
 regarding mobile parking applications and discuss the possibilities
 for a nationally based parking application.
 
+## Digital Twins Project
+As part of the course ICT Innovation & Sustainable Development,
+I worked on a group project assignment supervised by
+IVL Swedish Environmental Institute.
+The project goal was to investigate the applicability
+and possible benefits of implementing the
+digital twin technology in the Swedish water treatment sector.
+
+## Memento
+Group project as part of the course Information and Communication Technology.
+The idea of Memento is to provide a fun learning service for
+students of all ages. With Memento students can create and share flashcards,
+quizzes, and study materials, such as notes and solution suggestions.
+<br><br>
+[View project website](https://dracoexpo.github.io/)
+<br><br>
+
 ### Algorithms and Datastructures
 
 Laboratory assignments from the course Algorithm and Datastructures (ID1020) at KTH.
