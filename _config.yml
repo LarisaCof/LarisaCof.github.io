@@ -12,8 +12,8 @@ description: > # your text below (remove <br> elements if you don't need line br
   <br>
   
   <p>
-  <a href="https://www.linkedin.com/in/larisa-cof-b57925153/" target="_blank">View my LinkedIn</a> 
-  <a href="https://www.kth.se/profile/larisac/" target="_blank">View my KTH Profile</a> 
+  <a href="https://www.linkedin.com/in/larisa-cof-b57925153/">View my LinkedIn</a> 
+  <a href="https://www.kth.se/profile/larisac/">View my KTH Profile</a> 
   </p>
 theme: jekyll-theme-minimal
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
